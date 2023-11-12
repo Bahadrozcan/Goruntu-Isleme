@@ -33,6 +33,4 @@ histogram = calculate_histogram(image_path)
 
 print("Histogram:")
 
-
-# Histogramı grafik olarak çiz
 plot_histogram(histogram)
